@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         t-a-p-p-y-t-o-o-n
 // @namespace    https://github.com/bideoncenten/ngoai_sau_muoi/raw/main/t-a-p-p-y-t-o-o-n.user.js
-// @version      2023.09.21
+// @version      2023.09.22
 // @description  down t-a-p-p-y-t-o-o-n
 // @author       You
 // @match        https://www.tappytoon.com/en/chapters/*
